@@ -5,7 +5,7 @@ My presentation will show you how to make a presentation using reveal
 
 .reveal.NewSlide.Horizontal
 
-### Slide 1 Title - UPDATE
+### Slide 1 Title
 
 This is the second slide
 
